@@ -1,0 +1,23 @@
+.body_backgorund {
+    background-image: url("https://i.pinimg.com/originals/2f/5c/da/2f5cda3e31879b98a59d127c57da76f3.png");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-image: url("https://i.pinimg.com/originals/2f/5c/da/2f5cda3e31879b98a59d127c57da76f3.png"); 
+      border-style:ridge;
+      
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
